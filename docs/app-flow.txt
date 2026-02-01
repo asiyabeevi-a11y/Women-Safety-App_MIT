@@ -1,1 +1,5 @@
 This file explains how the app works screen by screen.
+When the app opens, the user sees the home screen.
+Pressing the SOS button sends an emergency SMS to saved contacts.
+The app fetches live location using GPS and displays it on the map.
+Emergency contacts are saved and retrieved using TinyDB.
